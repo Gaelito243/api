@@ -1,24 +1,23 @@
 [
-{
-"id":1,
-"nombre": "Drop Box",
-"categoria": "Suspenso",
-"descripcion": "Actriz principal Sandra Bullock",
-"fecha": "2024-11-19T06:00:00:000Z"
-},
-{
-"id":3, 
-"nombre": "No mires atras",
-"categoria": "Ficcion",
-"descripcion": "Actriz principal Julia Roberts",
-"fecha": "2024-11-14T06:00:00:000Z"
-},
-{
-"id":4,
-"nombre": "La casa de papel",
-"categoria": "Drama",
-"descripcion": "Origen español",
-"fecha": "2024-11-18T06:00:00:000Z"
-}
-
+  {
+    "id": 1,
+    "nombre": "Arcane",
+    "categoria": "Ciencia ficción fantástica Acción Aventura Drama",
+    "descripcion": "serie de animación franco-estadounidense que se desarrolla en el universo del videojuego League of Legends",
+    "fecha": "2021-11-06T06:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Breaking Bad",
+    "categoria": "Drama criminal\r\nSuspenso\r\nGánsteres\r\nNeo-Wéstern\r\nHumor negro\r\nTragedia",
+    "descripcion": "Serie de televisión estadounidense de drama que cuenta la historia de Walter White, un profesor de química de secundaria que se convierte en un capo del tráfico de metanfetamina para mantener a su familia después de ser diagnosticado con cáncer de pulmón",
+    "fecha": "2008-01-20T06:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Haikyuu!!",
+    "categoria": " Anime, Animación, Drama, Comedia cinematográfica, Película biográfica, Deportes",
+    "descripcion": "Inspirado por un campeonato que vio en televisión, el joven Hinata comienza a entrenar con un equipo de vóleibol sin importarle su pequeña estatura. ",
+    "fecha": "2014-04-06T06:00:00.000Z"
+  }
 ]
